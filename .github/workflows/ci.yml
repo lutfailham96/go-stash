@@ -1,4 +1,4 @@
-name: filesig Go CI
+name: stash Go CI
 
 on:
   push:
